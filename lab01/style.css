@@ -1,0 +1,46 @@
+.header{
+	width: auto;
+	height: 400px;
+ 	background:khaki;
+}
+#section{
+	
+	margin: 75px;
+	padding: 0px;
+	background: gray;
+	height: 500px;
+	border: 2px solid black;
+	display: flex;
+	flex-direction: column;	
+	
+}
+.yellow{
+	width: 1180px;
+	height: 150px;
+	background: yellow;
+	text-align: center;	
+	margin: auto;
+	padding: auto;	
+	}
+.orange{
+	background: orange;
+	display: inline-flex;
+ 	justify-content:space-around;
+ 	align-items: center;
+	margin: 0px;
+	padding: 100px;	
+}
+.about{
+
+
+	display: flex;
+	justify-content:space-around;
+	text-align: center;
+	background-color: white;	
+}
+.footer{
+	height: 100px;
+	margin: auto;
+	background-color: gray;
+	text-align: center;
+}
